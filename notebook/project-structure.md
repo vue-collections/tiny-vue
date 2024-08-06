@@ -1,7 +1,9 @@
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+mindmap
+Vue项目结构
+  .github
+  .vscode
+  changelogs
+  packages
+  scripts
 ```
