@@ -8,6 +8,14 @@ Vue项目结构
   scripts
   .gitignore
   .node-version
-  .tsconfig.json
-  .vitest.config.ts
+  rollup.config.js
+  rollup.dts.config.js
+  tsconfig.json
+  tsconfig.build-node.json
+  tsconfig.build-browser.json
+  vitest.config.ts
+  vitest.e2e.config.ts
+  vitest.unit.config.ts
+  SECURITY.md
+  README.md
 ```
