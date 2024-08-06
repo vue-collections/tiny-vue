@@ -6,4 +6,8 @@ Vue项目结构
   changelogs
   packages
   scripts
+  .gitignore
+  .node-version
+  .tsconfig.json
+  .vitest.config.ts
 ```
