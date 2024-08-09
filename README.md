@@ -11,3 +11,5 @@
 ## Feature
 
 ## License
+
+Copyright (c) 2013-present, Soetas
